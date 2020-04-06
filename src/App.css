@@ -1,322 +1,364 @@
 .col-md-1 {
-    flex: 0 0 8.33333%;
-    max-width: 8.33333%;
+  flex: 0 0 8.33333%;
+  max-width: 8.33333%;
 }
 .col-md-2 {
-    flex: 0 0 16.66667%;
-    max-width: 16.66667%;
+  flex: 0 0 16.66667%;
+  max-width: 16.66667%;
 }
 .col-md-3 {
-    flex: 0 0 25%;
-    max-width: 25%;
+  flex: 0 0 25%;
+  max-width: 25%;
 }
 .col-md-4 {
-    flex: 0 0 33.33333%;
-    max-width: 33.33333%;
+  flex: 0 0 33.33333%;
+  max-width: 33.33333%;
 }
 .col-md-5 {
-    flex: 0 0 41.66667%;
-    max-width: 41.66667%;
+  flex: 0 0 41.66667%;
+  max-width: 41.66667%;
 }
 .col-md-6 {
-    flex: 0 0 50%;
-    max-width: 50%;
+  flex: 0 0 50%;
+  max-width: 50%;
 }
 .col-md-7 {
-    flex: 0 0 58.33333%;
-    max-width: 58.33333%;
+  flex: 0 0 58.33333%;
+  max-width: 58.33333%;
 }
 .col-md-8 {
-    flex: 0 0 66.66667%;
-    max-width: 66.66667%;
+  flex: 0 0 66.66667%;
+  max-width: 66.66667%;
 }
 .col-md-9 {
-    flex: 0 0 75%;
-    max-width: 75%;
+  flex: 0 0 75%;
+  max-width: 75%;
 }
 .col-md-10 {
-    flex: 0 0 83.33333%;
-    max-width: 83.33333%;
+  flex: 0 0 83.33333%;
+  max-width: 83.33333%;
 }
 .col-md-11 {
-    flex: 0 0 91.66667%;
-    max-width: 91.66667%;
+  flex: 0 0 91.66667%;
+  max-width: 91.66667%;
 }
 .col-md-12 {
-    flex: 0 0 100%;
-    max-width: 100%;
+  flex: 0 0 100%;
+  max-width: 100%;
 }
 .row {
-    display: flex;
-    flex-wrap: wrap;
-    margin-right: -15px;
-    margin-left: -15px;
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
 }
 .form {
-    position: relative;
-    width: 100%;
+  position: relative;
+  width: 100%;
 }
 .form .form-row .col-md-1 {
-    margin-top: 15px;
+  margin-top: 15px;
 }
 .form .form-row .col-md-2 {
-    margin-top: 15px;
+  margin-top: 15px;
 }
 .form .form-row .col-md-3 {
-    margin-top: 15px;
+  margin-top: 15px;
 }
 .form .form-row .col-md-4 {
-    margin-top: 15px;
+  margin-top: 15px;
 }
 .form .form-row .col-md-5 {
-    margin-top: 15px;
+  margin-top: 15px;
 }
 .form .form-row .col-md-6 {
-    margin-top: 15px;
+  margin-top: 15px;
 }
 .form .form-row .col-md-7 {
-    margin-top: 15px;
+  margin-top: 15px;
 }
 .form .form-row .col-md-8 {
-    margin-top: 15px;
+  margin-top: 15px;
 }
 .form .form-row .col-md-9 {
-    margin-top: 15px;
+  margin-top: 15px;
 }
 .form .form-row .col-md-10 {
-    margin-top: 15px;
+  margin-top: 15px;
 }
 .form .form-row .col-md-11 {
-    margin-top: 15px;
+  margin-top: 15px;
 }
 .form .form-row .col-md-12 {
-    margin-top: 15px;
+  margin-top: 15px;
 }
 .float-right {
-    float: right !important;
+  float: right !important;
 }
 .float-left {
-    float: left !important;
+  float: left !important;
 }
 .toggle-label-left {
-    justify-content: space-between !important;
-    word-break: break-word;
-    flex-direction: row-reverse !important;
+  justify-content: space-between !important;
+  word-break: break-word;
+  flex-direction: row-reverse !important;
 }
 .editor-content {
-    border: 1px solid #8f9082;
-    height: auto !important;
-    padding-left: 15px;
-    min-height: 125px;
-    background: #fff;
+  border: 1px solid #8f9082;
+  height: auto !important;
+  padding-left: 15px;
+  min-height: 125px;
+  background: #fff;
 }
 
 .editor-toolbar {
-    border: 1px solid #8f9082 !important;
-    border-bottom: none !important;
-    margin-bottom: -1px !important;
+  border: 1px solid #8f9082 !important;
+  border-bottom: none !important;
+  margin-bottom: -1px !important;
 }
 
 .editor-container {
-    width: 100%;
+  width: 100%;
 }
 .color-field {
-    width: 20px;
-    height: 20px;
-    border: 1px solid #c0c0c0;
-    display: inline-block;
-    cursor: pointer;
+  width: 20px;
+  height: 20px;
+  border: 1px solid #c0c0c0;
+  display: inline-block;
+  cursor: pointer;
 }
 .dropzone_area {
-    width: 200px;
-    height: 200px;
-    line-height: 30px;
-    word-wrap: break-word;
-    border: 1px dotted white;
-    border-radius: 100px;
-    /* margin-left: 125px; */
-    margin-bottom: 20px;
-    display: inline-block;
+  width: 200px;
+  height: 200px;
+  line-height: 30px;
+  word-wrap: break-word;
+  border: 1px dotted white;
+  border-radius: 100px;
+  /* margin-left: 125px; */
+  margin-bottom: 20px;
+  display: inline-block;
 }
 .dropzone_file {
-    margin-left: 115px;
-    margin-top: 23px;
-    padding-top: 21px;
-    height: 79px;
-    width: 280px;
-    border: 1px dotted darkblue;
+  margin-left: 115px;
+  margin-top: 23px;
+  padding-top: 21px;
+  height: 79px;
+  width: 280px;
+  border: 1px dotted darkblue;
 }
 .dropzone_area1 {
-    margin: 10px !important;
-    display: inline-block;
+  margin: 10px !important;
+  display: inline-block;
 }
 .artwork-edit-profile {
-    width: 100px;
-    height: 90px;
-    border-radius: 10px;
+  width: 100px;
+  height: 90px;
+  border-radius: 10px;
 }
 .outerBox {
-    min-height: 115px;
-    border-radius: 0.1rem !important;
-    color: #303030 !important;
-    height: auto !important;
-    background-color: cadetblue;
-    text-align: start;
+  min-height: 115px;
+  border-radius: 0.1rem !important;
+  color: #303030 !important;
+  height: auto !important;
+  background-color: cadetblue;
+  text-align: start;
 }
 .innerBox {
-    background-color: bisque;
-    margin-left: 25%;
-    margin-right: 25%;
-    padding-left: 30px;
-    padding-right: 30px;
-    padding-bottom: 30px;
+  background-color: bisque;
+  margin-left: 25%;
+  margin-right: 25%;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
 }
 .bodyContent {
-    text-align: center;
-    background-color: darkkhaki;
-    padding-bottom: 100px;
+  text-align: center;
+  background-color: darkkhaki;
+  padding-bottom: 100px;
 }
 .textAlign {
-    text-align: center !important;
-    margin-top: 25px;
+  text-align: center !important;
+  margin-top: 25px;
 }
 .d-flex {
-    display: flex;
+  display: flex;
 }
 .leftSpace {
-    margin-left: 20px !important;
+  margin-left: 20px !important;
 }
 .topSpace {
-    margin-top: 20px;
+  margin-top: 20px;
 }
 .rightSpace {
-    margin-right: 20px;
+  margin-right: 20px;
 }
 .bottomSpace {
-    margin-bottom: 20px;
+  margin-bottom: 20px;
 }
 .textStart {
-    text-align: start !important;
+  text-align: start !important;
 }
 .actionbarContainer {
-    margin: 10px 334px 10px 338px;
+  margin: 10px 334px 10px 338px;
 }
 .submitBtn {
-    height: 8px;
-    width: 665px;
-    padding-top: 5px;
-    text-align: end;
+  height: 8px;
+  width: 665px;
+  padding-top: 5px;
+  text-align: end;
 }
 .cancelBtn {
-    color: white !important;
-    background-color: #3f51b5 !important;
-    margin-left: 10px !important;
+  color: white !important;
+  background-color: #3f51b5 !important;
+  margin-left: 10px !important;
 }
 .actionOuterDiv {
-    height: 60px;
-    background-color: lightcoral;
+  height: 60px;
+  background-color: lightcoral;
 }
 .imageCard {
-    display: flex;
-    background: white;
-    height: 90px;
-    width: 300px;
-    border-radius: 10px;
+  display: flex;
+  background: white;
+  height: 90px;
+  width: 300px;
+  border-radius: 10px;
 }
 .fileIcon {
-    width: 100px !important;
-    height: 90px !important;
+  width: 100px !important;
+  height: 90px !important;
 }
 .cardName {
-    padding: 10px;
-    word-break: break-all;
+  padding: 10px;
+  word-break: break-all;
 }
 .deleteBtn {
-    cursor: pointer;
-    font-size: 16px !important;
-    margin-top: 4px;
-    margin-left: 10px;
+  cursor: pointer;
+  font-size: 16px !important;
+  margin-top: 4px;
+  margin-left: 10px;
 }
 .singleImage {
-    height: 200px;
-    width: 200px;
-    border-radius: 100px;
+  height: 200px;
+  width: 200px;
+  border-radius: 100px;
 }
 .singleImgIcon {
-    height: 200px !important;
-    width: 200px !important;
-    color: #5f9ea0;
+  height: 200px !important;
+  width: 200px !important;
+  color: #5f9ea0;
 }
 .uploadImg {
-    height: 100px;
-    padding-top: 50px;
+  height: 100px;
+  padding-top: 50px;
 }
 .marLeft {
-    margin-left: 0px !important;
+  margin-left: 0px !important;
 }
 
 @media (max-width: 576px) {
-    .innerBox {
-        margin-left: 0px;
-        margin-right: 0px;
-        /* width: 290px !important; */
-    }
+  .innerBox {
+    margin-left: 0px;
+    margin-right: 0px;
+    /* width: 290px !important; */
+  }
 }
 .rdw-dropdown-optionwrapper {
-    overflow-y: auto !important;
+  overflow-y: auto !important;
 }
 .selected-flag {
-    background-color: transparent !important;
+  background-color: transparent !important;
 }
 .textWrap {
-    text-overflow: ellipsis;
-    white-space: nowrap;
-    overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
 }
 .footer-buttons {
-    background: #5f9ea0;
-    text-align: initial;
-    /* height: 49px; */
-    /* margin: 10px; */
-    padding: 7px;
-    margin-top: 28px;
+  background: #5f9ea0;
+  text-align: initial;
+  /* height: 49px; */
+  /* margin: 10px; */
+  padding: 7px;
+  margin-top: 28px;
 }
 .actionButton {
-    display: flex;
-    flex-direction: column;
+  display: flex;
+  flex-direction: column;
 }
 .align-top {
-    vertical-align: top !important;
+  vertical-align: top !important;
 }
 .top-5 {
-    position: relative;
-    top: 5px;
+  position: relative;
+  top: 5px;
 }
 
 .top-10 {
-    position: relative;
-    top: 10px;
+  position: relative;
+  top: 10px;
 }
 
 .bottom-5 {
-    position: relative;
-    bottom: 5px;
+  position: relative;
+  bottom: 5px;
 }
-
+.mt {
+  margin-top: 5px;
+}
 .bottom-10 {
-    position: relative;
-    bottom: 10px;
+  position: relative;
+  bottom: 10px;
 }
 .justify-content-between {
-    justify-content: space-between !important;
+  justify-content: space-between !important;
 }
 
 .flex-row-reverse {
-    flex-direction: row-reverse !important;
+  flex-direction: row-reverse !important;
 }
 .css-tlfecz-indicatorContainer {
-    padding: 0px !important;
+  padding: 0px !important;
 }
 .css-1gtu0rj-indicatorContainer {
-    padding: 0px !important;
+  padding: 0px !important;
+}
+.inputStyles {
+  border: none !important;
+  border-radius: 0 !important;
+  background-color: none !important;
+  width: auto !important;
+  background: transparent !important;
+}
+.containerStyle {
+  border: none !important;
+  border-bottom: 1px solid !important;
+  border-radius: 0 !important;
+  text-align: left !important;
+  background: transparent !important;
+}
+.buttonStyle {
+  border: none !important;
+  border-radius: 0 !important;
+  background: transparent !important;
+}
+.searchStyle {
+  background: transparent !important;
+}
+.dialogWidth {
+  width: 450px;
+}
+.MuiSnackbar-anchorOriginBottomCenter {
+  bottom: 0px !important;
+}
+.notificationBtn {
+  color: white !important;
+  margin-right: 10px !important;
+  margin-top: 10px !important;
+}
+.tooltipSpace {
+  margin-left: 5px;
+}
+.bottom-10 {
+  position: relative;
+  bottom: 10px;
 }
